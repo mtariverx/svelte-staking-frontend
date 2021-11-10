@@ -1,0 +1,7 @@
+ if (button === 'CONFIRM') is_wind_confirmed = true;
+                             else if (button_option === 'vote_confirm')
+                                 is_vote_confirmed = true;
+                             else if (button_option === 'reject_confirm')
+                                 is_reject_confirmed = true;
+                             else if (button_option === 'rescined_confirm')
+                                 is_rescined_confirmed = true;
